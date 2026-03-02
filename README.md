@@ -1,16 +1,17 @@
-## Hi there 👋
+## ola 👋
+ 
+Eu me chamo Ariel Gregorio kramek 👱‍♂️
 
-<!--
-**ArielKramek/ArielKramek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  E estou no curso de desenvolvimento de sistemas 💻
+  
+-  No momento estou estudando programação básica 📖
 
-Here are some ideas to get you started:
+-  A melhor parte do curso é a parte pretica onde subimos para o laboratorio para programar👨‍🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- O meu hobby é jogar videojogos e praticar alguns esportes como vôlei tenis de mesa🏓
+
+- Este é o basico sobre mim e espero conseguir triunfar nesse ramo da programção 🧑‍💻
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ebebeb)
+ ![CSS3](https://img.shields.io/badge/-CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
